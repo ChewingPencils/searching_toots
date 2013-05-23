@@ -45,7 +45,7 @@
 	
 `tweetbot:///search?query=from%3Amacdrifter%20OR%20from%3Aviticci%20OR%20from%3Ajasonschreier%20OR%20from%3Atinycartridge%20OR%20from%3Agamespite%20OR%20from%3Apatrickklepek%20OR%20from%3Ajcfletcher%20OR%20from%3Ashmups%20OR%20from:welkerpatrick%20filter%3Alinks%20-filter%3Amentions%20-filter%3Aretweets%20lang%3Aen%20{query}`
 
-I have several queries that group toghther similar news sources or Twitter users.
+It's easy to group similar news sources and Twitter users using the same pattern.
 	
 
 	
