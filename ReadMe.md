@@ -1,8 +1,7 @@
 # Using Tweetbot Searches to Replace RSS
 
 * A few examples of how I use Twitter to replace RSS.
-
-* Any of these can be easily modified to work with Drafts or Launch Center Pro on iOS.
+* Any of these can be modified to work with Drafts or Launch Center Pro on iOS.
 
 
 ## Work Related Searches
