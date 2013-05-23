@@ -1,8 +1,8 @@
 # Using Tweetbot Searches to Replace RSS
 
-Here are a few examples of how I've replaces RSS with Twitter.
+* A few examples of how I use Twitter to replace RSS.
 
-Any of these can be easyily modified to work with Drafts or Launch Center Pro on iOS.
+* Any of these can be easily modified to work with Drafts or Launch Center Pro on iOS.
 
 
 ## Work Related Searches
@@ -46,7 +46,7 @@ Any of these can be easyily modified to work with Drafts or Launch Center Pro on
 	
 `tweetbot:///search?query=from%3Amacdrifter%20OR%20from%3Aviticci%20OR%20from%3Ajasonschreier%20OR%20from%3Atinycartridge%20OR%20from%3Agamespite%20OR%20from%3Apatrickklepek%20OR%20from%3Ajcfletcher%20OR%20from%3Ashmups%20OR%20from:welkerpatrick%20filter%3Alinks%20-filter%3Amentions%20-filter%3Aretweets%20lang%3Aen%20{query}`
 
-I have several queries that group toghther simmilar news sources or Twitter users.
+I have several queries that group toghther similar news sources or Twitter users.
 	
 
 	
